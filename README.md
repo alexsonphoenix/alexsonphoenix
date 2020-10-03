@@ -9,7 +9,7 @@
 
 
 ### Spotify Playing 
-[<img src="https://https://spotify-now-playing.alexsonphoenix.vercel.app/api/spotify-playing" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
+[<img src="https://spotify-now-playing.alexsonphoenix.vercel.app/api/spotify-playing" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
 
 ---
 

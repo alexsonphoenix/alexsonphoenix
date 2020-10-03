@@ -9,7 +9,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="J2TeamNNL Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
+[<img src="https://spotify-playing-git-master.j2teamnnl.vercel.app/api/spotify-playing" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
 
 ---
 

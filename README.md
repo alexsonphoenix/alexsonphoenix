@@ -9,7 +9,7 @@
 
 
 ### Spotify Playing 🎧
-[<img src="" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
+[<img src="https://www.spotify.com/nz/" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
 
 ---
 

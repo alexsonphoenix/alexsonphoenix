@@ -16,7 +16,6 @@
 
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/r.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
-<img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/excel.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/html5.svg" />
 <img align='left' height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/css3.svg" />

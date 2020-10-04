@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🌱 I’m currently pursuing a Bachelor of Commerce in Accounting and a minor in Data Science
-- 👯 I’m looking to collaborate on Accountancy, Finance Analytics projects and other interesting data analytics.
+- 👯 I’m looking to collaborate on Accountancy, Finance Analytics projects and other interesting data analytics projects.
 - 🤝 I’m looking for help with **internship opportunity  as a junior data analyst or/and accountant role.**
 - 💬 Ask me about anything I learned, I am open to interesting conversations.
-- 📫 How to reach me: [Facebook] and [Email]
+- 📫 How to reach me: [Facebook](https://fb.com/nguyenhoangson7777777) and [Email](alexsonphoenix@gmail.com)
 - ⚡ Fun fact: I like animals, I like to ride motorbike, and I can make gun shooting sounds.
 
 

@@ -18,7 +18,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsonphoenix&show_icons=true" alt="alexsonphoenix" /></p>
 
-<p align="center">
+
+<p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/alexsonphoenix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexsonphoenix" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sơn-nguyễn-hoàng-b87692170" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sơn-nguyễn-hoàng-b87692170" height="30" width="40" /></a>

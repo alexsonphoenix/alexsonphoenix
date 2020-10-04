@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I like animals, I like to ride motorbike, and I can make gun shooting sounds.
 
 
-### Spotify Playing 
+### Spotify Playing 🎧
 [<img src="https://spotify-now-playing.alexsonphoenix.vercel.app/api/spotify" alt="Alex Spotify Playing" width="350" />](https://open.spotify.com/user/qriqfrtyp4w9z0x44sh2uzf6c)
 
 ---

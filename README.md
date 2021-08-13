@@ -5,7 +5,7 @@
 - 🤝 I’m looking for help with **internship opportunity  as a junior data analyst or/and accountant role.**
 - 💬 Ask me about anything I learned, I am open to interesting conversations.
 - 📫 How to reach me: [Facebook](https://fb.com/nguyenhoangson7777777) and [Email](alexsonphoenix@gmail.com)
-- ⚡ Fun fact: I like animals, I like to ride motorbike, and I can make gun shooting sounds.
+- ⚡ Fun fact: I like animals, I like to ride motorbike, take photos and I can make gun shooting sounds with my tonge.
 
 
 ### Spotify Playing 🎧

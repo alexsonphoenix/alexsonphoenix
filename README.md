@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I'm a Data Analytics and Automation Consultant working in New Zealand. I had a Bachelor of Commerce in Accounting and a minor in Data Science.
-- 👯 I’m looking to collaborate on Vietnam Open Data project, reach out to me if you want to know more.
+- 👯 I’m working on Vietnam Open Data project, reach out to me if you want to collaborate or to know more about this.
 - 🤝 I’m looking for work opportunity as **project manager and/or digital transformation lead**
 - 💬 Ask me about anything I learned, I am open to interesting conversations.
 - 📫 How to reach me: [Facebook](https://fb.com/nguyenhoangson7777777) and [Email](alexsonphoenix@gmail.com)

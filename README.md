@@ -3,14 +3,6 @@
 - 🌱 I specialize in Data Analytics, Data Engineering, Business Intelligence.
 - 📫 How to reach me:and [Email]: alexsonphoenix@gmail.com
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.python.org" target="_blank"> <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" alt="python" width="40" height="40"/> </a> <a href="https://www.r-project.org" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" alt="r" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/logos-3/600/React.js_logo-512.png" alt="react" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://automationpanda.files.wordpress.com/2017/09/django-logo-negative.png?w=1024" alt="django" width="40" height="40"/> </a> <a href="" target="_blank"> <img src="https://symbols-electrical.getvecta.com/stencil_80/57_flask-icon.eaaa141ab4.svg" alt="flask" width="40" height="40"/> <img src="https://cdn3.iconfinder.com/data/icons/programming-languages-4/222/javascript-512.png" alt="javascript" width="40" height="40"/></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexsonphoenix&layout=compact" alt="alexsonphoenix" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alexsonphoenix&show_icons=true" alt="alexsonphoenix" /></p>
-
-
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://twitter.com/alexsonphoenix" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexsonphoenix" height="30" width="40" /></a>
